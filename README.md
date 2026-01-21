@@ -1,12 +1,11 @@
-# DocSpace 📂
+# docspace 📂
 
 <p align="center">
   <img src="assets/icon.png" alt="App Icon" width="128" style="border-radius:26px;"/>
 </p>
 
 <p align="center">
-  <strong>A modern, privacy-focused document organizer for Android</strong><br>
-  Built with Flutter and Material Design 3 Expressive
+  <strong>Save What Matters</strong><br>
 </p>
 
 <p align="center">
@@ -34,22 +33,14 @@
     <img src="https://img.shields.io/badge/Flutter-100%25-blue?style=for-the-badge&logo=flutter" alt="Flutter">
 </p>
 
----
-
-## ‼️ DISCLAIMER
-- This project is open source. No fork of this project will receive support; if you use a fork, ask the forker to support you.
-
----
-
 ## ✨ Features
 
 ### 🎨 Modern UI/UX
-- **Material 3 Expressive** - High-quality design with shared-axis transitions.
 - **Dark Mode** - Deep black themes optimized for OLED screens.
 - **Smooth Animations** - Fluid interactions powered by the `animations` package.
 - **Custom Icons** - Aesthetic icons for every file type.
 
-### � Smart Organization
+### 📂 Smart Organization
 - **Subject-Based Folders** - Organize documents into subjects and projects.
 - **Deep Nesting** - Create unlimited sub-folders for granular control.
 - **Smart Grouping** - Visual organization of content for better readability.
@@ -65,31 +56,14 @@
 - **No Tracking** - Privacy-first approach with zero analytics.
 - **Split APKs** - Optimized build size (~16MB) for your specific device architecture.
 
----
-
-## 🛠️ Tech Stack
-
-| Category | Technology |
-|----------|------------|
-| **Language** | [Dart](https://dart.dev/) |
-| **Framework** | [Flutter](https://flutter.dev) |
-| **State Management** | [Riverpod](https://riverpod.dev) |
-| **Design System** | [Material Design 3](https://m3.material.io/) |
-| **Navigation** | Flutter Navigator 2.0 with Shared Axis Transitions |
-| **Local Storage** | `path_provider` + File System |
-| **Inter-App** | `receive_sharing_intent` |
-| **Architecture** | MVVM-style with Providers |
-
----
-
-## 📱 Requirements
+##  Requirements
 
 - **Android 7.0** (API 24) or higher
 - **2GB RAM** recommended for smooth performance
 
 ---
 
-## � Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
