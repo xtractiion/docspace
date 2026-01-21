@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Save What Matters</strong><br>
+  <strong>Keep what matters. Save what's yours.</strong><br>
 </p>
 
 <p align="center">
