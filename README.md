@@ -1,7 +1,7 @@
 # DocSpace 📂
 
 <p align="center">
-  <img src="assets/screenshot1.jpg" alt="App Icon" width="128" style="border-radius:26px;"/>
+  <img src="assets/icon.png" alt="App Icon" width="128" style="border-radius:26px;"/>
 </p>
 
 <p align="center">
